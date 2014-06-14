@@ -1,0 +1,64 @@
+Dependencies for Project 'at91sam7x256', Target 'flash-SAM-ICE': (DO NOT MODIFY !)
+F (../../../at91lib/peripherals/aic/aic.c)(0x494A4366)(-c --cpu ARM7TDMI -g -O0 --apcs=interwork -I../../../at91lib/peripherals -I../../../at91lib -I../../../at91lib/components -I../../../at91lib/boards/at91sam7x-ek --gnu -I C:\Keil\ARM\RV31\INC -I C:\Keil\ARM\CMSIS\Include -I C:\Keil\ARM\Inc\Atmel\SAM7X -Dat91sam7x256 -Dflash -DNOFPUT -o ".\at91sam7x256-flash\aic.o" --depend ".\at91sam7x256-flash\aic.d")
+I (../../../at91lib/peripherals/aic/aic.h)(0x494A4366)
+I (../../../at91lib/boards/at91sam7x-ek/board.h)(0x529ED71E)
+I (../../../at91lib/boards/at91sam7x-ek/at91sam7x256/AT91SAM7X256.h)(0x494A4366)
+F (../../../at91lib/peripherals/cp15/cp15.c)(0x494A4366)(-c --cpu ARM7TDMI -g -O0 --apcs=interwork -I../../../at91lib/peripherals -I../../../at91lib -I../../../at91lib/components -I../../../at91lib/boards/at91sam7x-ek --gnu -I C:\Keil\ARM\RV31\INC -I C:\Keil\ARM\CMSIS\Include -I C:\Keil\ARM\Inc\Atmel\SAM7X -Dat91sam7x256 -Dflash -DNOFPUT -o ".\at91sam7x256-flash\cp15.o" --depend ".\at91sam7x256-flash\cp15.d")
+I (../../../at91lib/boards/at91sam7x-ek/board.h)(0x529ED71E)
+I (../../../at91lib/boards/at91sam7x-ek/at91sam7x256/AT91SAM7X256.h)(0x494A4366)
+F (../../../at91lib/peripherals/pio/pio.c)(0x494A4366)(-c --cpu ARM7TDMI -g -O0 --apcs=interwork -I../../../at91lib/peripherals -I../../../at91lib -I../../../at91lib/components -I../../../at91lib/boards/at91sam7x-ek --gnu -I C:\Keil\ARM\RV31\INC -I C:\Keil\ARM\CMSIS\Include -I C:\Keil\ARM\Inc\Atmel\SAM7X -Dat91sam7x256 -Dflash -DNOFPUT -o ".\at91sam7x256-flash\pio.o" --depend ".\at91sam7x256-flash\pio.d")
+I (../../../at91lib/peripherals/pio/pio.h)(0x494A4366)
+I (../../../at91lib/boards/at91sam7x-ek/board.h)(0x529ED71E)
+I (../../../at91lib/boards/at91sam7x-ek/at91sam7x256/AT91SAM7X256.h)(0x494A4366)
+F (../../../at91lib/peripherals/pmc/pmc.c)(0x494A4366)(-c --cpu ARM7TDMI -g -O0 --apcs=interwork -I../../../at91lib/peripherals -I../../../at91lib -I../../../at91lib/components -I../../../at91lib/boards/at91sam7x-ek --gnu -I C:\Keil\ARM\RV31\INC -I C:\Keil\ARM\CMSIS\Include -I C:\Keil\ARM\Inc\Atmel\SAM7X -Dat91sam7x256 -Dflash -DNOFPUT -o ".\at91sam7x256-flash\pmc.o" --depend ".\at91sam7x256-flash\pmc.d")
+I (../../../at91lib/peripherals/pmc/pmc.h)(0x494A4366)
+I (../../../at91lib/boards/at91sam7x-ek/board.h)(0x529ED71E)
+I (../../../at91lib/boards/at91sam7x-ek/at91sam7x256/AT91SAM7X256.h)(0x494A4366)
+I (../../../at91lib/utility/assert.h)(0x494A4366)
+I (C:\Keil\ARM\ARMCC\bin\..\include\stdio.h)(0x50F9A098)
+I (../../../at91lib/utility/trace.h)(0x494A4366)
+I (../../../at91lib/peripherals/dbgu/dbgu.h)(0x494A4366)
+I (../../../at91lib/peripherals/pio/pio.h)(0x494A4366)
+F (../../../at91lib/peripherals/tc/tc.c)(0x494A4366)(-c --cpu ARM7TDMI -g -O0 --apcs=interwork -I../../../at91lib/peripherals -I../../../at91lib -I../../../at91lib/components -I../../../at91lib/boards/at91sam7x-ek --gnu -I C:\Keil\ARM\RV31\INC -I C:\Keil\ARM\CMSIS\Include -I C:\Keil\ARM\Inc\Atmel\SAM7X -Dat91sam7x256 -Dflash -DNOFPUT -o ".\at91sam7x256-flash\tc.o" --depend ".\at91sam7x256-flash\tc.d")
+I (../../../at91lib/peripherals/tc/tc.h)(0x494A4366)
+I (../../../at91lib/boards/at91sam7x-ek/board.h)(0x529ED71E)
+I (../../../at91lib/boards/at91sam7x-ek/at91sam7x256/AT91SAM7X256.h)(0x494A4366)
+F (../../../at91lib/peripherals/usart/usart.c)(0x494A4366)(-c --cpu ARM7TDMI -g -O0 --apcs=interwork -I../../../at91lib/peripherals -I../../../at91lib -I../../../at91lib/components -I../../../at91lib/boards/at91sam7x-ek --gnu -I C:\Keil\ARM\RV31\INC -I C:\Keil\ARM\CMSIS\Include -I C:\Keil\ARM\Inc\Atmel\SAM7X -Dat91sam7x256 -Dflash -DNOFPUT -o ".\at91sam7x256-flash\usart.o" --depend ".\at91sam7x256-flash\usart.d")
+I (../../../at91lib/peripherals/usart/usart.h)(0x494A4366)
+I (../../../at91lib/boards/at91sam7x-ek/board.h)(0x529ED71E)
+I (../../../at91lib/boards/at91sam7x-ek/at91sam7x256/AT91SAM7X256.h)(0x494A4366)
+I (../../../at91lib/utility/trace.h)(0x494A4366)
+I (../../../at91lib/peripherals/dbgu/dbgu.h)(0x494A4366)
+I (../../../at91lib/peripherals/pio/pio.h)(0x494A4366)
+I (C:\Keil\ARM\ARMCC\bin\..\include\stdio.h)(0x50F9A098)
+I (../../../at91lib/utility/assert.h)(0x494A4366)
+F (../../../at91lib/peripherals/cp15/cp15_asm_keil.s)(0x494A4366)(--cpu ARM7TDMI -g --apcs=interwork -I C:\Keil\ARM\RV31\INC -I C:\Keil\ARM\CMSIS\Include -I C:\Keil\ARM\Inc\Atmel\SAM7X -o ".\at91sam7x256-flash\cp15_asm_keil.o" --depend ".\at91sam7x256-flash\cp15_asm_keil.d")
+F (../../../at91lib/boards/at91sam7x-ek/board_lowlevel.c)(0x494A4366)(-c --cpu ARM7TDMI -g -O0 --apcs=interwork -I../../../at91lib/peripherals -I../../../at91lib -I../../../at91lib/components -I../../../at91lib/boards/at91sam7x-ek --gnu -I C:\Keil\ARM\RV31\INC -I C:\Keil\ARM\CMSIS\Include -I C:\Keil\ARM\Inc\Atmel\SAM7X -Dat91sam7x256 -Dflash -DNOFPUT -o ".\at91sam7x256-flash\board_lowlevel.o" --depend ".\at91sam7x256-flash\board_lowlevel.d")
+I (../../../at91lib/boards/at91sam7x-ek/board.h)(0x529ED71E)
+I (../../../at91lib/boards/at91sam7x-ek/at91sam7x256/AT91SAM7X256.h)(0x494A4366)
+I (../../../at91lib/boards/at91sam7x-ek/board_memories.h)(0x494A4366)
+I (../../../at91lib/peripherals/pmc/pmc.h)(0x494A4366)
+F (../../../at91lib/boards/at91sam7x-ek/board_memories.c)(0x494A4366)(-c --cpu ARM7TDMI -g -O0 --apcs=interwork -I../../../at91lib/peripherals -I../../../at91lib -I../../../at91lib/components -I../../../at91lib/boards/at91sam7x-ek --gnu -I C:\Keil\ARM\RV31\INC -I C:\Keil\ARM\CMSIS\Include -I C:\Keil\ARM\Inc\Atmel\SAM7X -Dat91sam7x256 -Dflash -DNOFPUT -o ".\at91sam7x256-flash\board_memories.o" --depend ".\at91sam7x256-flash\board_memories.d")
+I (../../../at91lib/boards/at91sam7x-ek/board_memories.h)(0x494A4366)
+I (../../../at91lib/boards/at91sam7x-ek/board.h)(0x529ED71E)
+I (../../../at91lib/boards/at91sam7x-ek/at91sam7x256/AT91SAM7X256.h)(0x494A4366)
+F (../../../at91lib/boards/at91sam7x-ek/board_cstartup_keil.s)(0x494A4366)(--cpu ARM7TDMI -g --apcs=interwork -I C:\Keil\ARM\RV31\INC -I C:\Keil\ARM\CMSIS\Include -I C:\Keil\ARM\Inc\Atmel\SAM7X -o ".\at91sam7x256-flash\board_cstartup_keil.o" --depend ".\at91sam7x256-flash\board_cstartup_keil.d")
+F (..\..\..\at91lib\utility\retarget.c)(0x529ECFA4)(-c --cpu ARM7TDMI -g -O0 --apcs=interwork -I../../../at91lib/peripherals -I../../../at91lib -I../../../at91lib/components -I../../../at91lib/boards/at91sam7x-ek --gnu -I C:\Keil\ARM\RV31\INC -I C:\Keil\ARM\CMSIS\Include -I C:\Keil\ARM\Inc\Atmel\SAM7X -Dat91sam7x256 -Dflash -DNOFPUT -o ".\at91sam7x256-flash\retarget.o" --depend ".\at91sam7x256-flash\retarget.d")
+I (../../../at91lib/peripherals/dbgu/dbgu.h)(0x494A4366)
+I (C:\Keil\ARM\ARMCC\bin\..\include\stdio.h)(0x50F9A098)
+F (..\main.c)(0x539C1E31)(-c --cpu ARM7TDMI -g -O0 --apcs=interwork -I../../../at91lib/peripherals -I../../../at91lib -I../../../at91lib/components -I../../../at91lib/boards/at91sam7x-ek --gnu -I C:\Keil\ARM\RV31\INC -I C:\Keil\ARM\CMSIS\Include -I C:\Keil\ARM\Inc\Atmel\SAM7X -Dat91sam7x256 -Dflash -DNOFPUT -o ".\at91sam7x256-flash\main.o" --depend ".\at91sam7x256-flash\main.d")
+I (../../../at91lib/boards/at91sam7x-ek/board.h)(0x529ED71E)
+I (../../../at91lib/boards/at91sam7x-ek/at91sam7x256/AT91SAM7X256.h)(0x494A4366)
+I (../../../at91lib/peripherals/pio/pio.h)(0x494A4366)
+I (../../../at91lib/peripherals/usart/usart.h)(0x494A4366)
+I (../../../at91lib/peripherals/tc/tc.h)(0x494A4366)
+I (../../../at91lib/peripherals/aic/aic.h)(0x494A4366)
+I (../../../at91lib/peripherals/pmc/pmc.h)(0x494A4366)
+I (../../../at91lib/utility/trace.h)(0x494A4366)
+I (../../../at91lib/peripherals/dbgu/dbgu.h)(0x494A4366)
+I (C:\Keil\ARM\ARMCC\bin\..\include\stdio.h)(0x50F9A098)
+F (..\printf_usart.c)(0x494A4366)(-c --cpu ARM7TDMI -g -O0 --apcs=interwork -I../../../at91lib/peripherals -I../../../at91lib -I../../../at91lib/components -I../../../at91lib/boards/at91sam7x-ek --gnu -I C:\Keil\ARM\RV31\INC -I C:\Keil\ARM\CMSIS\Include -I C:\Keil\ARM\Inc\Atmel\SAM7X -Dat91sam7x256 -Dflash -DNOFPUT -o ".\at91sam7x256-flash\printf_usart.o" --depend ".\at91sam7x256-flash\printf_usart.d")
+I (../../../at91lib/boards/at91sam7x-ek/board.h)(0x529ED71E)
+I (../../../at91lib/boards/at91sam7x-ek/at91sam7x256/AT91SAM7X256.h)(0x494A4366)
+I (../../../at91lib/peripherals/usart/usart.h)(0x494A4366)
+I (C:\Keil\ARM\ARMCC\bin\..\include\stdio.h)(0x50F9A098)

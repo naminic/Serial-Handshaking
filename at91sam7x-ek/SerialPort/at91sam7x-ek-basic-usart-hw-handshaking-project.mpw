@@ -1,0 +1,5 @@
+[WORKSPACE]
+	MPW_NAME="basic-usart-hw-handshaking-project" 
+	Project=".\uv2\at91sam7x128.Uv2"
+	Project=".\uv2\at91sam7x256.Uv2"
+	Project=".\uv2\at91sam7x512.Uv2"
